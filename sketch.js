@@ -1,3 +1,29 @@
+// Hi my name is andrew albertino and this is my web project. i used p5 web gl.
+// I learned thru using this tool. That javascript isnt that hard, and what exactly i can create using js.
+// I had to use functions quite a bit to get my animation to run smoothly. I found it quite difficult to get arrays to work tho without messing up my code.
+//defining a function using parameters was no problem at all. 
+
+
+
+
+const name = "Final Project"
+
+
+function logger() {
+  console.log("FINAL PROJECTT!!!!")
+  console.log("FINAL PROJECTT!!!!")
+  console.log("FINAL PROJECTT!!!!")
+  console.log("FINAL PROJECTT!!!!")
+}
+
+
+logger();
+
+
+
+
+
+
 let angle = 0;
 
 function setup() {
@@ -27,3 +53,5 @@ function draw() {
     pop();
   }
 }
+
+
