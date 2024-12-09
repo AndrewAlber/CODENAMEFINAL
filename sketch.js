@@ -3,9 +3,11 @@
 // I had to use functions quite a bit to get my animation to run smoothly. I found it quite difficult to get arrays to work tho without messing up my code.
 //defining a function using parameters was no problem at all. 
 
+//creating an array
+const numbers = [5, 10, 15]
+ console.log(numbers)
 
-
-
+ //defining a function using parameters
 const name = "Final Project"
 
 
@@ -22,7 +24,7 @@ logger();
 
 
 
-
+//creating my animation
 
 let angle = 0;
 
